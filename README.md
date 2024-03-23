@@ -43,6 +43,8 @@
 </div>
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:blue;background-color:#8080ff">
+ <div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eg20204254&color=9745f5&bg_color=000000&line=9745f5&point=ffffff&area_color=000000&hide_border=true&area=true" alt="readme active graph" />
 
 
 <!------------ Languages stats -------------->
@@ -56,7 +58,7 @@
 
 <!---------Languages and tools----------------->
 
-<h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Languages and Tools </h2>
+<h2 align="left">💻Languages and Tools </h2><p>
 
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -84,16 +86,12 @@
    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   
-
+</p>
 <!---------Connect me----------------->
 
-<br></br>
-<h2><i> Connnect me </i> </h2>
-
-<br/>
-
+<h2 align ="left">🤝🏻 Connect me </h2>
+<p>
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/yasodha-virajani-19217b287/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:yasodhavirajani@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
+</p>
 
-</br>
-</br>
