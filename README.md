@@ -1,6 +1,6 @@
 
  <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+,+I'm+Yasodha+Virajani+%F0%9F%91%8B;Computer+Engineering+Student;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+,+welcome+to+my+Github+page;I'm+Yasodha+Virajani+%F0%9F%91%8B;Computer+Engineering+Student;" alt="Headline" />
     </div>
 <h3 align="center">Undergraduate of Faculty of Engineering,University of Ruhuna</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eg20204254&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
@@ -8,7 +8,16 @@
 - 🔭 I’m currently working on [An Online Local Crop Marketplace and Delivery System](https://github.com/Chamindu77/CropMaeketplace)
 
 - 📫 How to reach me **yasodhavirajani@gmail.com**
+---
+<h2 align="left"> Github Stats</h2>
+<h4 align="center">Visitor's count :eyes:</h4>
 
+<p align="center"><img src="https://profile-counter.glitch.me/eg20204254/count.svg" alt="Yasodha Virajani :: Visitor's Count" /></p>
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eg20204254&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![eg20204254 GitHub stats](https://github-readme-stats.vercel.app/api?username=eg20204254&theme=algolia)](https://github.com/eg20204254/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eg20204254&theme=algolia)](https://github.com/eg20204254/github-readme-stats)   
+</br>
 
 ---
 <h2 align="left">Languages and Tools </h2>
