@@ -2,11 +2,14 @@
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+,+welcome+to+my+Github+page;I'm+Yasodha+Virajani+%F0%9F%91%8B;Computer+Engineering+Student;" alt="Headline" />
     </div>
-<h3 align="center">Undergraduate of Faculty of Engineering,University of Ruhuna</h3>
+    <img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<h3 align="center">Undergraduate of Faculty of Engineering,University of Ruhuna</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eg20204254&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
+
+<p><img align="right" width="200px" height ="200px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 <br>
-<img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
@@ -31,10 +34,6 @@
 </br>
 
 ---
-
-
-
-
 
 
 
