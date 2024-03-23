@@ -6,10 +6,8 @@
 <h3 align="center">Undergraduate of Faculty of Engineering,University of Ruhuna</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eg20204254&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-
 <p><img align="right" width="200px" height ="200px" src="https://github.com/eg20204254/eg20204254/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 <br>
-
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
@@ -21,23 +19,47 @@
 
 ---
 <h2 align="left">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></h2>
-<h4 align="center">Visitor's count :eyes:</h4>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i>Git Activeness🎯</h2>
+<h4 align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">Visitor's count :eyes:<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/eg20204254/count.svg" alt="Yasodha Virajani :: Visitor's Count" /></p>
 
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eg20204254&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![eg20204254 GitHub stats](https://github-readme-stats.vercel.app/api?username=eg20204254&theme=algolia)](https://github.com/eg20204254/github-readme-stats) </br>
+
 <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eg20204254&theme=algolia)](https://github.com/eg20204254/github-readme-stats)   
 </br>
 
 ---
+<!-----Contribution figures------>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats :
+
+<img align="center" src = "https://github-readme-stats.vercel.app/api?username=eg20204254&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40">
+
+<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
+
+
+<!------------ Streak Display -------------->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Stats :
+
+<div>
+<p>
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eg20204254&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</p>
+</div>
+
+<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
+---
 
 
 
-<h2 align="left"><i>Languages and Tools </i></h2>
+<h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Languages and Tools </h2>
 
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -65,3 +87,16 @@
    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   
+
+
+<br></br>
+<h2><i> Connnect me </i> </h2>
+
+<br/>
+
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/kgan31/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:gkaustav57@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
+<a href = "https://discordapp.com/users/885073575839670302"><img width="100px" alt = "Discord" src = "https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
+
+</br>
+</br>
