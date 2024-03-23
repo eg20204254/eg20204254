@@ -16,7 +16,8 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eg20204254&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![eg20204254 GitHub stats](https://github-readme-stats.vercel.app/api?username=eg20204254&theme=algolia)](https://github.com/eg20204254/github-readme-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eg20204254&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![eg20204254 GitHub stats](https://github-readme-stats.vercel.app/api?username=eg20204254&theme=algolia)](https://github.com/eg20204254/github-readme-stats) </br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eg20204254&theme=algolia)](https://github.com/eg20204254/github-readme-stats)   
 </br>
 
