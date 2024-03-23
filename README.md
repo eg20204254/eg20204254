@@ -8,21 +8,35 @@
 <h3 align="center">Undergraduate of Faculty of Engineering,University of Ruhuna</h3> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eg20204254&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-<p><img align="right" width="200px" height ="200px" src="https://github.com/eg20204254/eg20204254/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 <br>
 
+[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<table align="center">
+<tr border="none">
+<td width="65%" align="left">
+<h2> About Me </h2>
 
-- 🔭 I’m currently working on [An Online Local Crop Marketplace and Delivery System](https://github.com/Chamindu77/CropMaeketplace)
 
+- 🌱 I’m currently working on **the project 'An Online Local Crop Marketplace and Delivery System'**
+- 💻 Studies at **Department of Computer Engineering,Faculty of Engineering,University of Ruhuna**
+- 👨‍💻 All of my projects are available at [https://github.com/eg20204254](https://github.com/eg20204254)
 - 📫 How to reach me **yasodhavirajani@gmail.com**
+</td>
+<td width="35%" align="center">
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+  </td>
+</tr>
+</table>
 
 
-
-
+[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 <!---------Languages and tools----------------->
----
 <h2 align="left">💻Languages and Tools </h2><p>
 
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -53,8 +67,10 @@
 
 </p>
 
+[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 <!-----Git Activeness------>
----
+
 <h2 align="left">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Git Activeness🎯</h2>
 <h4 align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">Visitor's count :eyes:<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h4>
@@ -84,25 +100,29 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eg20204254&theme=algolia" alt="HrugVed" /></p>
 </div>
 
-
+[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 <!------------ A Snake Eating my Contributions Graph -------------->
----
+
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/eg20204254/eg20204254/blob/main/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
 
+[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 <!---------Connect me----------------->
----
+
 <h2 align ="left">🤝🏻Get in touch <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px">  </h2>
 <p>
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/yasodha-virajani-19217b287/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:yasodhavirajani@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
 </p>
 
+[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
 <!---------Thank you----------------->
----
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%233cca&size=24&center=true&vCenter=true&width=600&height=50&lines=Thank+you+for+viewing+my+profile;" alt="footerline" />
-</div>
+
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Thank+You+for+taking+the+time+to+view+my+GitHub+Profile...&center=true&width=700&height=45">
