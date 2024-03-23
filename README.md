@@ -24,40 +24,37 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/eg20204254/count.svg" alt="Yasodha Virajani :: Visitor's Count" /></p>
 
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eg20204254&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![eg20204254 GitHub stats](https://github-readme-stats.vercel.app/api?username=eg20204254&theme=algolia)](https://github.com/eg20204254/github-readme-stats) </br>
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eg20204254&theme=algolia)](https://github.com/eg20204254/github-readme-stats)   
-</br>
-
 ---
 <!-----Contribution figures------>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats :
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats</h3>
 
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=eg20204254&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40">
+<p align= "center"><img align="center" src = "https://github-readme-stats.vercel.app/api?username=eg20204254&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40">
 
-<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
+<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff"></p>
 
 
 <!------------ Streak Display -------------->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Stats :
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Stats </h3>
 
 <div>
-<p>
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eg20204254&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eg20204254&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="HrugVed" /></p>
 </div>
 
-<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
----
+<hr style="height:2px;border-width:1;border-radius: 5px;color:blue;background-color:#8080ff">
 
 
+<!------------ Languages stats -------------->
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Languages Stats </h3>
+<div>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eg20204254&theme=algolia" alt="HrugVed" /></p>
+</div>
+
+<hr style="height:2px;border-width:1;border-radius: 5px;color:blue;background-color:#8080ff">
+
+
+<!---------Languages and tools----------------->
 
 <h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Languages and Tools </h2>
 
@@ -88,15 +85,15 @@
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   
 
+<!---------Connect me----------------->
 
 <br></br>
 <h2><i> Connnect me </i> </h2>
 
 <br/>
 
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/kgan31/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:gkaustav57@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
-<a href = "https://discordapp.com/users/885073575839670302"><img width="100px" alt = "Discord" src = "https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/yasodha-virajani-19217b287/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:yasodhavirajani@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
 
 </br>
 </br>
