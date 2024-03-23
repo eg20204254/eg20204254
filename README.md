@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eg20204254&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 
-<p><img align="right" width="200px" height ="200px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" width="200px" height ="200px" src="https://github.com/eg20204254/eg20204254/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 <br>
 
 
