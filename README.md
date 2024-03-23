@@ -1,10 +1,12 @@
+<div align=center>
+        <img src="https://github.com/eg20204254/eg20204254/blob/main/prof_image.jpg" alt="Headline" width=2000px  height=300px/>
 
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+,+welcome+to+my+Github+page;I'm+Yasodha+Virajani+%F0%9F%91%8B;Computer+Engineering+Student;" alt="Headline" />
     </div>
     <img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <h3 align="center">Undergraduate of Faculty of Engineering,University of Ruhuna</h3> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eg20204254&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eg20204254&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 <p><img align="right" width="200px" height ="200px" src="https://github.com/eg20204254/eg20204254/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 <br>
@@ -15,40 +17,6 @@
 
 - 📫 How to reach me **yasodhavirajani@gmail.com**
 
-
-
----
-<h2 align="left">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Git Activeness🎯</h2>
-<h4 align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">Visitor's count :eyes:<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/eg20204254/count.svg" alt="Yasodha Virajani :: Visitor's Count" /></p>
-
-
-<!-----Contribution figures------>
-
-<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats</h3>
-
-<p align= "center"><img align="center" src = "https://github-readme-stats.vercel.app/api?username=eg20204254&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40">
-
-
-<!------------ Streak Display -------------->
-
-<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Stats </h3>
-
-<div>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eg20204254&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="HrugVed" /></p>
-</div>
-
- <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eg20204254&color=9745f5&bg_color=000000&line=9745f5&point=ffffff&area_color=000000&hide_border=true&area=true" alt="readme active graph" />
-
-
-<!------------ Languages stats -------------->
-<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Languages Stats </h3>
-<div>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eg20204254&theme=algolia" alt="HrugVed" /></p>
-</div>
 
 
 
@@ -81,12 +49,48 @@
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  
+
 </p>
 
+<!-----Git Activeness------>
+---
+<h2 align="left">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Git Activeness🎯</h2>
+<h4 align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">Visitor's count :eyes:<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/eg20204254/count.svg" alt="Yasodha Virajani :: Visitor's Count" /></p>
+
+
+<!-----Contribution figures------>
+
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats</h3>
+
+<p align= "center"><img align="center" src = "https://github-readme-stats.vercel.app/api?username=eg20204254&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40">
+
+
+<!------------ Streak Display -------------->
+
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Stats </h3>
+
+<div>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eg20204254&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="HrugVed" /></p>
+</div>
+
+
+<!------------ Languages stats -------------->
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Languages Stats </h3>
+<div>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eg20204254&theme=algolia" alt="HrugVed" /></p>
+</div>
 
 
 
+---
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/eg20204254/eg20204254/blob/main/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+</p>
 
 <!---------Connect me----------------->
 ---
@@ -96,3 +100,8 @@
 <a href="mailto:yasodhavirajani@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
 </p>
 
+<!---------Thank you----------------->
+---
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%233cca&size=24&center=true&vCenter=true&width=600&height=50&lines=Thank+you+for+viewing+my+profile;" alt="footerline" />
+</div>
