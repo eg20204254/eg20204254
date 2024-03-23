@@ -1,5 +1,5 @@
 <div align=center>
-        <img src="https://github.com/eg20204254/eg20204254/blob/main/prof_image.jpg" alt="Headline" width=2000px  height=300px/>
+        <img src="https://github.com/eg20204254/eg20204254/blob/main/prof_image.jpg" alt="Headline" width=2000px  height=300px/></div>
 
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+,+welcome+to+my+Github+page;I'm+Yasodha+Virajani+%F0%9F%91%8B;Computer+Engineering+Student;" alt="Headline" />
@@ -10,6 +10,7 @@
 
 <p><img align="right" width="200px" height ="200px" src="https://github.com/eg20204254/eg20204254/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 <br>
+
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
@@ -84,7 +85,7 @@
 </div>
 
 
-
+<!------------ A Snake Eating my Contributions Graph -------------->
 ---
 ## 🐍 A Snake Eating my Contributions Graph
 	
