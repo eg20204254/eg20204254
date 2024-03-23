@@ -4,7 +4,7 @@
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+,+welcome+to+my+Github+page;I'm+Yasodha+Virajani+%F0%9F%91%8B;Computer+Engineering+Student;" alt="Headline" />
     </div>
-    <img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+    <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <h3 align="center">Undergraduate of Faculty of Engineering,University of Ruhuna</h3> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eg20204254&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </td>
 <td width="35%" align="center">
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/eg20204254/eg20204254/blob/main/Website%20Design.gif" width = 350px></picture>
 
   </td>
 </tr>
@@ -77,28 +77,28 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <p align="center"><img src="https://profile-counter.glitch.me/eg20204254/count.svg" alt="Yasodha Virajani :: Visitor's Count" /></p>
 
-
+<table>
 <!-----Contribution figures------>
-
+<tr>
+<td>
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats</h3>
-
 <p align= "center"><img align="center" src = "https://github-readme-stats.vercel.app/api?username=eg20204254&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40">
-
+</td>
 
 <!------------ Streak Display -------------->
-
+<td>
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Stats </h3>
-
-<div>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eg20204254&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="HrugVed" /></p>
-</div>
-
-
+</td>
+</tr>
+<tr>
+<td colspan="2">
 <!------------ Languages stats -------------->
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Languages Stats </h3>
-<div>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eg20204254&theme=algolia" alt="HrugVed" /></p>
-</div>
+</td>
+</tr>
+</table>
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
