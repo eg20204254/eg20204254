@@ -1,15 +1,24 @@
 
- <div align=center>
+<div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+,+welcome+to+my+Github+page;I'm+Yasodha+Virajani+%F0%9F%91%8B;Computer+Engineering+Student;" alt="Headline" />
     </div>
 <h3 align="center">Undergraduate of Faculty of Engineering,University of Ruhuna</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eg20204254&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
+<br>
+<img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+
 - 🔭 I’m currently working on [An Online Local Crop Marketplace and Delivery System](https://github.com/Chamindu77/CropMaeketplace)
 
 - 📫 How to reach me **yasodhavirajani@gmail.com**
+
+
+
 ---
-<h2 align="left"> Github Stats</h2>
+<h2 align="left">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></h2>
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/eg20204254/count.svg" alt="Yasodha Virajani :: Visitor's Count" /></p>
@@ -22,7 +31,14 @@
 </br>
 
 ---
-<h2 align="left">Languages and Tools </h2>
+
+
+
+
+
+
+
+<h2 align="left"><i>Languages and Tools </i></h2>
 
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
