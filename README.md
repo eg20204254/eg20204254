@@ -7,20 +7,20 @@
     <img align="right" width=120px height=120px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <h3 align="center">Undergraduate at Faculty of Engineering,University of Ruhuna</h3> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eg20204254&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-
-
 <br>
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
+
+<!-----------------------------About me-------------------------------->
 <table align="center">
 <tr border="none">
 <td width="65%" align="left">
-<h2> About Me </h2>
+<h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me </h2>
 
 
-- 🌱 I’m currently working on **the project 'An Online Local Crop Marketplace and Delivery System'**
+- 🌱 I’m currently working on **the projects 'An Online Local Crop Marketplace and Delivery System' and 'Banking Application - Network Programming'** 
 - 💻 Studies at **Department of Computer Engineering,Faculty of Engineering,University of Ruhuna**
 - 👨‍💻 All of my projects are available at [https://github.com/eg20204254](https://github.com/eg20204254)
 - 📫 How to reach me **yasodhavirajani@gmail.com**
@@ -33,9 +33,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </tr>
 </table>
 
-
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
 <!---------Languages and tools----------------->
 <h2 align="left">💻Languages and Tools </h2><p>
 
@@ -102,6 +102,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
 <!------------ A Snake Eating my Contributions Graph -------------->
 
 ## 🐍 A Snake Eating my Contributions Graph
@@ -112,6 +113,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
 <!---------Connect me----------------->
 
 <h2 align ="left">🤝🏻Get in touch <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px">  </h2>
@@ -127,4 +129,4 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <!---------Thank you----------------->
 
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Thank+You+for+viewing+my+Profile...&center=true&width=700&height=45">
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Thank+You+for+viewing+my+Profile&center=true&width=700&height=45">
