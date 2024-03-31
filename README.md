@@ -1,5 +1,5 @@
 <div align=center>
-        <img src="https://github.com/eg20204254/eg20204254/blob/main/Background%20image.png" alt="Headline" width=2000px  height=300px/></div>
+        <img src="https://github.com/eg20204254/eg20204254/blob/main/Yasodha Virajani.png" alt="Headline" width=2000px  height=300px/></div>
 
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+,+welcome+to+my+Github+page;I'm+Yasodha+Virajani+%F0%9F%91%8B;Computer+Engineering+Student;" alt="Headline" />
